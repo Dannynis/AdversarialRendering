@@ -1,1 +1,4 @@
 .history
+botorch_snapshots/*
+current_pairs/*
+patches/*
